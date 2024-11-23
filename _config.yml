@@ -1,3 +1,6 @@
 remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
+
+title: Suliman Bouizaguen  
+description: Personnal website of Suliman Bouizaguen
