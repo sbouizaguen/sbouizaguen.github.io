@@ -5,8 +5,7 @@ layout: default
 I am a Data Scientist with half a decade of experience, interested in leveraging AI solutions to transform companies and especially healthcare. 
 My focus is computer vision, bioimage analysis, computational biology, data extraction and processing (EHRs,...) and natural langage processing (LLMs). 
 
-
-<br><br>
+<br>
 # Work experience
 ---
 <h3 style="margin-bottom: 5px;">UKBB University Children Hospital of Basel</h3>
@@ -26,8 +25,7 @@ My focus is computer vision, bioimage analysis, computational biology, data extr
 - Performed artificial intelligence app development and containerization to analyze medical images for different clients, CROs, Pharmaceuticals, research centers<br>
 - Tumor micro-environment spatial analysis, pathology image analysis
 
-
-<br><br>
+<br>
 # Publications
 ---
 - **Nature communications** : [Immunomic longitudinal profiling of the NeoPembrOv trial identifies drivers of immunoresistance in high-grade ovarian carcinoma](https://www.nature.com/articles/s41467-024-47000-5)
