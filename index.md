@@ -8,17 +8,20 @@ My focus is computer vision, bioimage analysis, computational biology, data extr
 
 # Work experience
 
-## 07/24 - now | UKBB University Children Hospital of Basel
+## UKBB University Children Hospital of Basel
+*07/24 - now* 
 - Clinical data analysis, cardiovascular risk prediction<br>
 - Data extraction from EHRs, data curation and processing<br>
 - Natural langage processing methods implementation for classification and content generation (Tranformers, LLMs)
 
-## 11/22 - 07/24 | Focal Biosciences AG 
+## Focal Biosciences AG 
+*11/22 - 07/24*
 - Established an image-based analysis pipeline for a high throughput screening platform (HTS) for drug discovery<br>
 - Developed a deep learning based pipeline to analyze multidimentional biomedical images (tissue, 2D and 3D)<br>
 - Management of cloud storage and computation using AWS
 
-## 04/20 - 11/22 | Keen Eye Technologies 
+## Keen Eye Technologies
+*04/20 - 11/22*
 - Performed artificial intelligence app development and containerization to analyze medical images for different clients, CROs, Pharmaceuticals, research centers<br>
 - Tumor micro-environment spatial analysis, pathology image analysis
 
