@@ -8,10 +8,10 @@ My focus is computer vision, bioimage analysis, computational biology, data extr
 
 # Work experience
 
-## 07/24 - now | UKBB 
+## 07/24 - now | UKBB University Children Hospital of Basel
 - Clinical data analysis, cardiovascular risk prediction<br>
 - Data extraction from EHRs, data curation and processing<br>
-- Natural langage processing methods implementation for classification and content generation
+- Natural langage processing methods implementation for classification and content generation (Tranformers, LLMs)
 
 ## 11/22 - 07/24 | Focal Biosciences AG 
 - Established an image-based analysis pipeline for a high throughput screening platform (HTS) for drug discovery<br>
