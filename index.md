@@ -6,6 +6,8 @@ I am a Data Scientist with half a decade of experience, interested in leveraging
 My focus is computer vision, bioimage analysis, computational biology, data extraction and processing (EHRs,...) and natural langage processing (LLMs). 
 
 
+
+
 # Work experience
 ---
 <h3 style="margin-bottom: 5px;">UKBB University Children Hospital of Basel</h3>
@@ -26,6 +28,8 @@ My focus is computer vision, bioimage analysis, computational biology, data extr
 *04/20 - 11/22*
 - Performed artificial intelligence app development and containerization to analyze medical images for different clients, CROs, Pharmaceuticals, research centers<br>
 - Tumor micro-environment spatial analysis, pathology image analysis
+
+
 
 
 # Publications
